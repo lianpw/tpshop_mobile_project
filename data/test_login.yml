@@ -1,0 +1,13 @@
+test_login:
+  test_login_001:
+    username: '18513087182'
+    password: '123456'
+    ischecked: true
+    toast: '登录'
+    screen: 'test_login_001'
+  test_login_002:
+    username: '18513087180'
+    password: '123456'
+    ischecked: true
+    toast: '不存在'
+    screen: 'test_login_002'
